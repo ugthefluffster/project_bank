@@ -1,2 +1,3 @@
-# project_bank
-Simple ATM simulator using only python
+# Project bank
+Simple ATM simulator using only python. To run:  
+`py atm.py`
