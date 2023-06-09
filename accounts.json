@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Example one",
+    "sn": "8307734",
+    "balance": 200,
+    "pin": "1234"
+  },
+  {
+    "name": "Example two",
+    "sn": "5449011",
+    "balance": 190,
+    "pin": "0000"
+  },
+  {
+    "name": "Example three",
+    "sn": "4317715",
+    "balance": 300,
+    "pin": "5555"
+  }
+]
